@@ -1,0 +1,6 @@
+P10
+04/12
+-Dans le mémo du sujet, il est spécifié dans le §Fournir le planning(Diagramme Gantt), "Assigner les tâches de développement aux développeurs". En un sens, cette directive est un non-sens puisqu'il est question ici de travailler à partir d'une méthode Kanban. Les assignations de tâches sont effectuées par les dév eux-mêmes en fonction de leur disponibilité.
+-un diagramme Gantt en Agile est un non-sens :
+"oui oui, je comprends, c'est juste un prévisionnel pour le board, ça leur permet d'avoir une vision à moyen terme des budgets, etc. Après comme tu le sais, au day to day, on adapte, on 
+reste pas figé das cette planification." Question Bonus, si le fait d'avoir une planification ne sert à rien alors pourquoi en demander une???cela va à l'encontre de valeurs Agile telles que "Customer collaboration over contract negotiation" ou encore "Responding to change over following a plan"...
