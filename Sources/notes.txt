@@ -1,4 +1,83 @@
 P10
+Sem du 05/12 au 09/12
+<BACKLOGS>
+	<DONE>Création de 2 Backlogs sur kabantool.com
+		<DONE>Product backlog</DONE>
+		<DONE>Sprint backlog</DONE>
+	</DONE>
+	<DONE>
+		création de 1 user supplémentaire (login / mdp) :
+		 	freyd.rautha@openclassroom.com / openclassroom
+	</DONE>
+	<DONE>renseignement des epic BACKLOG Product</DONE>
+	<DONE>renseignements des priorités pour chaque epic</DONE>
+	<DONE>éclater les epic en US dans le Sprint backlog (en tant que...il faut que...afin de...)</DONE>
+	<DONE>prioriser les US du Sprint backlog</DONE>
+<BACKLOGS>
+<GANTT url="https://www.gantt.com/creating-gantt-charts">
+	<DONE>
+		Créer un diagramme de Gantt incluant les réunions de lancement (Sprint 0), de sprints, de suivis et de rétrospective.
+		<Step 1>
+			<1>définir l'énoncé de la portée du projet</1>
+			<2>définir le WBS (work Breakdown Structure ou structure de répartition des tâches)</2>
+			<3>définir le dictionnaire WBS</3>
+		</Step 1>
+		<Step 2>Décomposition de chaque tâche du WBS en activité(s)</Step 2>
+		<Step 3>
+			Relier chaque activité aux autres. Toutes les actitivté, sauf la première et la dernière, auront une liaison avec leur prédécesseur et leur successeur/suivante.
+			<nota>
+				Il existe quatre types de relation :
+					_fin à début : ne peut pas commencer l'activité suivante tant que le prédécesseur n'est pas fini;
+					_début à début : ne peut pas commencer l'activité suivante tant que le prédecesseur n'a pas démarré;
+					_début à fin : ne peut pas terminer l'activité suivante tant que le prédecesseur n'a pas démarré;
+					_fin à fin : ne peut pas terminer l'activité suivante tant que le prédédesseur n'a pas terminé.
+			</nota>
+		</Step 3>
+		<Step 4>Estimer les ressources</Step 4>
+		<Step 5>Estimer les durées</Step 5>
+		<Step 6>Développer le calendrier</Step 6>
+	</DONE>
+	<DONE>Assigner les tâches de développement aux développeurs dans les sprints (faire des propositions de merde dans le Gannt, à l'aide d'annotations, pour répondre à l'objectif pédagogique)</DONE>
+</GANTT>
+<EQUIPE>
+	<TODO>créer 3 fiches de poste type (PO, Scrum Master, Dév) pour réaliser les tâches techniques</TODO>
+	<TODO>pour le poste de PO, lister les spécificités d'un PO à partir du Scrum guide et indiquer que le PSPO serait apprécié</TODO>
+	<TODO>pour le poste de Scrum Master, indiquer que comme aucun profil ne répond aux spécificités d'un Scrum Master alors :
+		soit une personne présente dans le roster est volontaire pour se former à ce rôle;
+		soit il sera question d'externaliser ce rôle et de demander l'intervention d'un prestataire externe pour ce rôle.
+	<TODO>choisir 3 profils de dév dans le roster</TODO>
+</EQUIPE>
+<RECOMMANDATIONS url="https://www.cadremploi.fr/editorial/conseils/conseils-carriere/le-proof-of-concept">
+	<GENERALES>
+		<TODO>Définir les priorités à donner aux epics et aux US</TODO>
+		<TODO>Définir les différents rôles (PO, Scrum Master, Dev) et rappeler que pour respecter les contraintes du projet l'équipe sera limitée à 5 membres, donc 1 PO + 1 Scrum Master + 3 développeurs</TODO>
+		<TODO>Définir le sprint 0 de lancement</TODO>
+		<TODO>Définir les cérémonies</TODO>
+		<Artefacts>
+			<TODO>définir les jalons temporels : les sprints (ici pour ce projet, j'ai décidé qu'1 sprint = 20 jours ouvrés soit 4 semaines calendaires en partant du principes qu'une semaine calenadire comprtait 5 jours ouvrés)</TODO>
+			<TODO>Définir epic</TODO>
+			<TODO>Définir US</TODO>
+			<TODO>Définir DOR (Definition Of Ready) pour les US</TODO>
+			<TODO>Définir DOD (Definition Of Done) pour les US</TODO>
+		</Artefacts>
+		<TODO>rappeler les valeurs AGILE en incluant le manifeste AGILE</TODO>
+		<TODO>expliquer comment estimer les US par un jeu de poker planning</TODO>
+		<TODO>Définir PoC (Proof of Concept)</TODO>
+		<TODO>Faire le distingo entre PoC,prototype et MVP (Minimal Viable Product)</TODO>
+		<TODO>Définir les phases de lancement d'un PoC</TODO>
+	</GENERALES>
+	<CONTRAINTES>
+		<TODO>Rappeler les contraintes de 5 profils max y compris le PO et le Scrum Master</TODO>
+	</CONTRAINTES>
+	<KPI>
+		<TODO>Définir des KPI pour le MVP (niveau de complétion du projet, coût...)</TODO>
+	</KPI>
+</RECOMMANDATIONS>
+===========================================
+05/12
+debrief
+timing serré
+===========================================
 04/12
 -Dans le mémo du sujet, il est spécifié dans le §Fournir le planning(Diagramme Gantt), "Assigner les tâches de développement aux développeurs". En un sens, cette directive est un non-sens puisqu'il est question ici de travailler à partir d'une méthode Kanban. Les assignations de tâches sont effectuées par les dév eux-mêmes en fonction de leur disponibilité.
 -un diagramme Gantt en Agile est un non-sens :
