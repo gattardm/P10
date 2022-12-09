@@ -14,7 +14,7 @@ Sem du 05/12 au 09/12
 	<DONE>éclater les epic en US dans le Sprint backlog (en tant que...il faut que...afin de...)</DONE>
 	<DONE>prioriser les US du Sprint backlog</DONE>
 <BACKLOGS>
-<GANTT url="https://www.gantt.com/creating-gantt-charts">
+<GANTT>
 	<DONE>
 		Créer un diagramme de Gantt incluant les réunions de lancement (Sprint 0), de sprints, de suivis et de rétrospective.
 		<Step 1>
@@ -40,16 +40,16 @@ Sem du 05/12 au 09/12
 	<DONE>Assigner les tâches de développement aux développeurs dans les sprints (faire des propositions de merde dans le Gannt, à l'aide d'annotations, pour répondre à l'objectif pédagogique)</DONE>
 </GANTT>
 <EQUIPE>
-	<TODO>créer 3 fiches de poste type (PO, Scrum Master, Dév) pour réaliser les tâches techniques</TODO>
+	<DONE>créer 3 fiches de poste type (PO, Scrum Master, Dév) pour réaliser les tâches techniques</DONE>
 	<TODO>pour le poste de PO, lister les spécificités d'un PO à partir du Scrum guide et indiquer que le PSPO serait apprécié</TODO>
 	<TODO>pour le poste de Scrum Master, indiquer que comme aucun profil ne répond aux spécificités d'un Scrum Master alors :
 		soit une personne présente dans le roster est volontaire pour se former à ce rôle;
 		soit il sera question d'externaliser ce rôle et de demander l'intervention d'un prestataire externe pour ce rôle.
 	<TODO>choisir 3 profils de dév dans le roster</TODO>
 </EQUIPE>
-<RECOMMANDATIONS url="https://www.cadremploi.fr/editorial/conseils/conseils-carriere/le-proof-of-concept">
+<RECOMMANDATIONS>
 	<GENERALES>
-		<TODO>Définir les priorités à donner aux epics et aux US</TODO>
+		<TODO>Définir les priorités à donner aux epics et aux US. Faire le rapprochement avec les priorités édictées au sein des backlog sur Kanbantool.com et indiquer les niveaux de couleur utilisés pour représentéer ces priorités.</TODO>
 		<TODO>Définir les différents rôles (PO, Scrum Master, Dev) et rappeler que pour respecter les contraintes du projet l'équipe sera limitée à 5 membres, donc 1 PO + 1 Scrum Master + 3 développeurs</TODO>
 		<TODO>Définir le sprint 0 de lancement</TODO>
 		<TODO>Définir les cérémonies</TODO>
