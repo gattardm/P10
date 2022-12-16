@@ -14,7 +14,7 @@ Sem du 05/12 au 09/12
 	<DONE>éclater les epic en US dans le Sprint backlog (en tant que...il faut que...afin de...)</DONE>
 	<DONE>prioriser les US du Sprint backlog</DONE>
 <BACKLOGS>
-<GANTT>
+<GANTT url="https://www.gantt.com/creating-gantt-charts">
 	<DONE>
 		Créer un diagramme de Gantt incluant les réunions de lancement (Sprint 0), de sprints, de suivis et de rétrospective.
 		<Step 1>
@@ -41,27 +41,33 @@ Sem du 05/12 au 09/12
 </GANTT>
 <EQUIPE>
 	<DONE>créer 3 fiches de poste type (PO, Scrum Master, Dév) pour réaliser les tâches techniques</DONE>
-	<TODO>pour le poste de PO, lister les spécificités d'un PO à partir du Scrum guide et indiquer que le PSPO serait apprécié</TODO>
-	<TODO>pour le poste de Scrum Master, indiquer que comme aucun profil ne répond aux spécificités d'un Scrum Master alors :
+	<DONE>pour le poste de PO, lister les spécificités d'un PO à partir du Scrum guide et indiquer que le PSPO serait apprécié</DONE>
+	<DONE>
+		pour le poste de Scrum Master, indiquer que comme aucun profil ne répond aux spécificités d'un Scrum Master alors :
 		soit une personne présente dans le roster est volontaire pour se former à ce rôle;
 		soit il sera question d'externaliser ce rôle et de demander l'intervention d'un prestataire externe pour ce rôle.
-	<TODO>choisir 3 profils de dév dans le roster</TODO>
+	</DONE>
+	<DONE>choisir 3 profils de dév dans le roster</DONE>
 </EQUIPE>
-<RECOMMANDATIONS>
+<RECOMMANDATIONS url="https://www.cadremploi.fr/editorial/conseils/conseils-carriere/le-proof-of-concept">
 	<GENERALES>
-		<TODO>Définir les priorités à donner aux epics et aux US. Faire le rapprochement avec les priorités édictées au sein des backlog sur Kanbantool.com et indiquer les niveaux de couleur utilisés pour représentéer ces priorités.</TODO>
-		<TODO>Définir les différents rôles (PO, Scrum Master, Dev) et rappeler que pour respecter les contraintes du projet l'équipe sera limitée à 5 membres, donc 1 PO + 1 Scrum Master + 3 développeurs</TODO>
-		<TODO>Définir le sprint 0 de lancement</TODO>
-		<TODO>Définir les cérémonies</TODO>
+		<DONE>
+			Définir les priorités à donner aux epics et aux US. Faire le rapprochement avec les priorités édictées au sein des backlog sur Kanbantool.com et indiquer les niveaux de couleur utilisés pour représentéer ces priorités.
+		</DONE>
+		<DONE>
+			Définir les différents rôles (PO, Scrum Master, Dev) et rappeler que pour respecter les contraintes du projet l'équipe sera limitée à 5 membres, donc 1 PO + 1 Scrum Master + 3 développeurs
+		</DONE>
+		<DONE>Définir le sprint 0 de lancement</DONE>
+		<DONE>Définir les cérémonies</DONE>
 		<Artefacts>
-			<TODO>définir les jalons temporels : les sprints (ici pour ce projet, j'ai décidé qu'1 sprint = 20 jours ouvrés soit 4 semaines calendaires en partant du principes qu'une semaine calenadire comprtait 5 jours ouvrés)</TODO>
-			<TODO>Définir epic</TODO>
-			<TODO>Définir US</TODO>
-			<TODO>Définir DOR (Definition Of Ready) pour les US</TODO>
-			<TODO>Définir DOD (Definition Of Done) pour les US</TODO>
+			<DONE>définir les jalons temporels : les sprints (ici pour ce projet, j'ai décidé qu'1 sprint = 20 jours ouvrés soit 4 semaines calendaires en partant du principes qu'une semaine calenadire comprtait 5 jours ouvrés)</DONE>
+			<DONE>Définir epic</DONE>
+			<DONE>Définir US</DONE>
+			<DONE>Définir DOR (Definition Of Ready) pour les US</DONE>
+			<DONE>Définir DOD (Definition Of Done) pour les US</DONE>
 		</Artefacts>
 		<TODO>rappeler les valeurs AGILE en incluant le manifeste AGILE</TODO>
-		<TODO>expliquer comment estimer les US par un jeu de poker planning</TODO>
+		<DONE>expliquer comment estimer les US par un jeu de poker planning</DONE>
 		<TODO>Définir PoC (Proof of Concept)</TODO>
 		<TODO>Faire le distingo entre PoC,prototype et MVP (Minimal Viable Product)</TODO>
 		<TODO>Définir les phases de lancement d'un PoC</TODO>
