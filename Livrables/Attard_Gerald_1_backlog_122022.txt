@@ -1,0 +1,16 @@
+URL pour les backlogs Kanban:
+     https://solarhis.kanbantool.com/login
+
+Login de connexion aux backlogs:
+     freyd.rautha@openclassroom.com
+
+Mot de passe de connexion aux backlogs:
+     openclassroom
+
+*****************************************************************
+*                          NOTE                                 *
+*****************************************************************
+* le fichier joint "Attard_Gerald_2_Gantt-diagramme_122022.gan" *
+* est à ouvrir avec l'application GanttProject                  *
+* ( https://sourceforge.net/projects/ganttproject/ )            *
+*****************************************************************
